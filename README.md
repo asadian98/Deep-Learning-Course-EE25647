@@ -1,4 +1,4 @@
-# Deep-Learning-Course-EE25647
-Course: Deep Learning, EE25647 (Graduate)
+# Deep Learning Course (EE25647)
+This is the repository for my solutions to the Deep Learning course's coumputer assignments at Sharif University of Technology (EE25647 - Graduate). This course was taught by Dr.Emad Fatemizadeh at the Department of Electrical Engineering.
 
-Instructor: Dr.Emad Fatemizadeh
+<b>HW1: MLP<b><br>

@@ -1,8 +1,7 @@
 # Joint Object Detection and Depth Estimation in Image
 
 ## Authors:
-Ahmadreza Rahimzare - 99206033
-<br> Amirhossein Asadian - 96101187
+Amirhossein Asadian & Ahmadreza Rahimzare
 
 ## About the project:
 In this project, first, we trained a model to *estimate depth* of any single image. The model we used is similar to [this project](https://github.com/siddinc/monocular_depth_estimation). It's based on papers [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) and [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941). Particularly, We used [NYU Depth Dataset V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) for training.

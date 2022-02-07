@@ -10,7 +10,6 @@ In this project, first, we trained a model to *estimate depth* of any single ima
 certain depth range to be detected by the final network.
 
 ## Files:
-Folder **Depth_Data:** NYU Dataset prepared for training and evaluation.
 <br>**Depth_Estimation.ipynb:** Creating, Training and saving the "depth estimation model".
 <br> **YOLO_Object_Detection.ipynb:** Using YOLOv4 to detect objects in NYU Depth Dataset V2. 
 <br> **YOLOv3_Object_Detection.ipynb:** Using YOLOv3 to detect objects in NYU Depth Dataset V2. 

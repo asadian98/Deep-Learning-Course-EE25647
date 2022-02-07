@@ -1,6 +1,5 @@
-# Deep Learning HW1
+# Deep Learning HW2
 
 
-*   **Some theoretical ML questions**: HW1_theory.pdf
-*   **Sign Language Recognition using TensorFlow**: Sign_Language_Recognition.ipynb
-*   **CartPole (RL)**: CartPole.ipynb, CartPole_output
+*   **Classification and Data Augmentation on CIFAR-10 Dataset using MLP and CNN**: CIFAR10_MLP_CNN.ipynb
+*   **Transfer Learning using VGG16**: TransferLearning_VGG16.ipynb

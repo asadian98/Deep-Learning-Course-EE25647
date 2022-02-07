@@ -20,3 +20,7 @@ Instructor: Dr.Emad Fatemizadeh; Fall 2021
 *   Sentiment Analysis on Tweets using One-directional and Bi-directional LSTM
 *   Signal Denoising using RNN and LSTM
 *   Image Captioning using (LSTM + InceptionV3)  and (LSTM + VGG16)
+
+> Final_Project:
+
+*   Joint Object Detection and Depth Estimation

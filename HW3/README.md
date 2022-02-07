@@ -58,6 +58,8 @@ Results:
 
 ## Image Captioning using (LSTM + InceptionV3)  and (LSTM + VGG16)
 
+Results: 
+
 > LSTM + VGG16
 
 ![image](https://user-images.githubusercontent.com/94138466/152811422-6b7132a0-0ae3-4408-8ec7-301333209939.png)

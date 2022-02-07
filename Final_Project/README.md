@@ -1,4 +1,4 @@
-# Joint Object Detection and Depth Estimation in Image
+# Joint Object Detection and Depth Estimation
 
 ## Authors:
 Amirhossein Asadian & Ahmadreza Rahimzare

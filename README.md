@@ -2,7 +2,7 @@
 
 My solutions to the **Deep Learning graduate course** (EE-25647) @ Sharif University of Technology.
 
-Instructor: Dr.Emad Fatemizadeh; Fall 2021
+Instructor: Dr. Emad Fatemizadeh; Fall 2021
 
 ### HW1:
 

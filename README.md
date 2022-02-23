@@ -24,6 +24,3 @@ Instructor: Dr. Emad Fatemizadeh; Fall 2021
 ### Final_Project:
 
 *   Joint Object Detection and Depth Estimation
-
-
-
